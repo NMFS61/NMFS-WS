@@ -4516,6 +4516,13 @@ table.shopping-cart-table tr th, table.shopping-cart-table tr td {
   height:auto;
 }
 
+.client3-item {
+  text-align:center;
+}
+.client3-item img{
+  height: 100px;
+}
+
 /* #TESTIMONIALS 1 #NEW
 =====================================================*/
 .quote p{
