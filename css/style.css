@@ -4507,9 +4507,13 @@ table.shopping-cart-table tr th, table.shopping-cart-table tr td {
 =====================================================*/
 .client2-item {
   text-align:center;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  width: 100%;
+  margin-bottom: 20%;
 }
 .client2-item img{
-  height:100px;
+  height:auto;
 }
 
 /* #TESTIMONIALS 1 #NEW
