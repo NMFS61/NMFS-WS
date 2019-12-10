@@ -156,7 +156,7 @@ body {
 /* mavi balon end */
 
 #gtco-main-nav {
-  padding: 5px 0;
+  padding: 0px 0;
 }
 #gtco-main-nav .navbar-brand {
   font-size: 36px;
@@ -195,7 +195,7 @@ body {
 }
 #gtco-main-nav .navbar-nav li a {
   font-family: "OpenSans-Regular";
-  font-size: 18px;
+  font-size: 15px;
   color: white;
   padding: 5px 15px !important;
   text-transform: uppercase;
