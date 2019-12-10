@@ -50,6 +50,7 @@ body {
   font-family: "OpenSans-Regular";
   padding-top: 7%;
 }
+
 @media (max-width: 600px) {
   body {
     padding-top: 30%;
@@ -155,7 +156,7 @@ body {
 /* mavi balon end */
 
 #gtco-main-nav {
-  padding: 20px 0;
+  padding: 5px 0;
 }
 #gtco-main-nav .navbar-brand {
   font-size: 36px;
